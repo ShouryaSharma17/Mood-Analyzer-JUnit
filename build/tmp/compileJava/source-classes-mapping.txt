@@ -1,2 +1,5 @@
 com/usermood/MoodAnalysis.java
  com.usermood.MoodAnalysis
+com/usermood/MoodAnalysisException.java
+ com.usermood.MoodAnalysisException
+ com.usermood.MoodAnalysisException$exceptionType
